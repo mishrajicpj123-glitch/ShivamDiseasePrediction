@@ -1,0 +1,2 @@
+# ShivamDiseasePrediction
+AI DISEASE PREDICTION 
